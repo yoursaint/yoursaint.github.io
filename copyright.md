@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: page
 title: Copyright
 ---
-
-{%-include back_link.html-%}
-
-<h1>{{ page.title }}</h1>
 
 The MIT License (MIT)
 
