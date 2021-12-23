@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Copyright
 ---
 
 {%-include back_link.html-%}
