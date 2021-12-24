@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 첫번째 포스트와 크리스마스 그리고 jekyll
-category: daily
 ---
+
 github pages 개설이후 이것 저것 테스트 중인 상황. theme은 css를 사용하지 않는 레트로 스타일을 골랐다.
 > https://github.com/riggraz/no-style-please
 
